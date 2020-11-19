@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Calculatr\Calculatr\bin\Debug\Calculatr.exe.config
+C:\Users\Admin\source\repos\Calculatr\Calculatr\bin\Debug\Calculatr.exe
+C:\Users\Admin\source\repos\Calculatr\Calculatr\bin\Debug\Calculatr.pdb
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr_MarkupCompile.cache
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr_MarkupCompile.lref
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.g.resources
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.Properties.Resources.resources
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.exe
+C:\Users\Admin\source\repos\Calculatr\Calculatr\obj\Debug\Calculatr.pdb
